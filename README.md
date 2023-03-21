@@ -1,6 +1,6 @@
 Blank definition for zOS Connect oas3 designer with CICS placeholders.
 For use with RedHat CodeReady Workspaces
-Fork this project to customize and use as needed
+Copy this template to customize and use as needed
 
 ## Structure
 The `start` directory contains an initial project layout which can be used as the basis of learning the process of creating an API in the z/OS Connect Designer container. 
