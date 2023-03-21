@@ -21,6 +21,14 @@ components:
     env:
       - name: ZCON_DESIGNER_PROJECT
         value: /projects/catalog-manager-api/start
+      - name: CICS_HOST
+        value: "cap-us-east-prd-sg-bm-01.securegateway.appdomain.cloud"
+      - name: CICS_PORT
+        value: "6088"
+      - name: CICS_USERNAME
+        value: "tsoidhere"
+      - name: CICS_PASSWORD
+        value: "encryptedpasswordhere"
     memoryLimit: 4927M
     type: dockerimage
     image: 'icr.io/zosconnect/ibm-zcon-designer:3.0.66'
