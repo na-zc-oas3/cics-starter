@@ -25,7 +25,7 @@ components:
         value: "cap-us-east-prd-sg-bm-01.securegateway.appdomain.cloud"
       - name: CICS_PORT
         value: "6088"
-      - name: CICS_USERNAME
+      - name: CICS_USER
         value: "tsoidhere"
       - name: CICS_PASSWORD
         value: "encryptedpasswordhere"
